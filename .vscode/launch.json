@@ -1,0 +1,57 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Adicao",
+            "request": "launch",
+            "mainClass": "adicao.Adicao",
+            "projectName": "JAVA_209d3990"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Adicao",
+            "request": "launch",
+            "mainClass": "Adicao",
+            "projectName": "JAVA_209d3990"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Adicao",
+            "request": "launch",
+            "mainClass": "adicao.adicao.Adicao",
+            "projectName": "JAVA_209d3990"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Testes",
+            "request": "launch",
+            "mainClass": "testes.Testes",
+            "projectName": "JAVA_209d3990"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Testes",
+            "request": "launch",
+            "mainClass": "Testes",
+            "projectName": "JAVA_209d3990"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - java",
+            "request": "launch",
+            "mainClass": "java",
+            "projectName": "JAVA_209d3990"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Produto",
+            "request": "launch",
+            "mainClass": "produto.Produto",
+            "projectName": "JAVA_209d3990"
+        }
+    ]
+}

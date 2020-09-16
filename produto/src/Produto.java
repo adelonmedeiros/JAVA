@@ -38,9 +38,6 @@ public class Produto {
 // Exemplo Deitel
 // Exercício 2.6: Product.Java
 // Calcula o produto de três inteiros.
-
-package produto;
-
 import java.util.Scanner; // programa utiliza Scanner
 
 public class Produto {

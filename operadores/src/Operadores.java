@@ -61,8 +61,6 @@ public class Operadores {
 // Compara inteiros utilizando instruções if, operadores relacionais
 // e operadores de igualdade.
 
-package operadores;
-
 import java.util.Scanner; // programa utiliza a classe Scanner
 
 public class Operadores {

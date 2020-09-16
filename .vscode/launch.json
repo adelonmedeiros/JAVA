@@ -8,6 +8,19 @@
             "type": "java",
             "name": "CodeLens (Launch) - Adicao",
             "request": "launch",
+            "mainClass": "adicao.Adicao"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteAutomatizado",
+            "request": "launch",
+            "mainClass": "TesteAutomatizado",
+            "projectName": "Java_209db5b0"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Adicao",
+            "request": "launch",
             "mainClass": "adicao.Adicao",
             "projectName": "JAVA_209d3990"
         },

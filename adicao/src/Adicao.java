@@ -36,9 +36,6 @@ public class Adicao {
 // Exemplo Deitel
 // Figura 2.7: Addition.java
 // Programa de adição que insere dois números, então exibe a soma deles.
-
-package adicao;
-
 import java.util.Scanner; // programa utiliza a classe Scanner
 
 public class Adicao {

@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Operadores",
+            "request": "launch",
+            "mainClass": "Operadores",
+            "projectName": "Java_209db5b0"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Adicao",
             "request": "launch",
             "mainClass": "adicao.Adicao"

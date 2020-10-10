@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="37dfa626-353c-45ca-bdb0-9cd7dbb0997a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../bytebank-encapsulado/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-encapsulado/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-encapsulado/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-encapsulado/bin/Cliente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-encapsulado/bin/Conta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-encapsulado/bin/TesteContas.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-encapsulado/src/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-encapsulado/src/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-encapsulado/src/TesteContas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado-conta/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado-conta/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado-conta/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado-conta/bin/CalculadorDeImposto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado-conta/bin/Cliente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado-conta/bin/Conta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado-conta/bin/ContaCorrente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado-conta/bin/ContaPoupanca.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado-conta/bin/SeguroDeVida.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado-conta/bin/TesteContas.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado-conta/bin/TesteTributaveis.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado-conta/bin/Tributavel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado-conta/src/CalculadorDeImposto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado-conta/src/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado-conta/src/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado-conta/src/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado-conta/src/ContaPoupanca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado-conta/src/SeguroDeVida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado-conta/src/TesteContas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado-conta/src/TesteTributaveis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado-conta/src/Tributavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado/bin/Administrador.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado/bin/AutenticacaoUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado/bin/Autenticavel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado/bin/Cliente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado/bin/ControleBonificacao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado/bin/Designer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado/bin/EditorVideo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado/bin/Funcionario.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado/bin/Gerente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado/bin/SistemaInterno.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado/bin/TesteFuncionario.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado/bin/TesteGerente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado/bin/TesteReferencias.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado/bin/TesteSistema.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado/src/Administrador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado/src/AutenticacaoUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado/src/Autenticavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado/src/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado/src/ControleBonificacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado/src/Designer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado/src/EditorVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado/src/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado/src/Gerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado/src/SistemaInterno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado/src/TesteFuncionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado/src/TesteGerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado/src/TesteReferencias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado/src/TesteSistema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fluxo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FluxoComError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinhaExcecao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../testes/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../testes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../testes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../testes/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../testes/out/production/testes/Testes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../testes/src/Testes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../testes/testes.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1i76aEXLJJkyK0QBmJWv3h2q0ET" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Javascript/Rocketseat" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37dfa626-353c-45ca-bdb0-9cd7dbb0997a" name="Default Changelist" comment="" />
+      <created>1601246425930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601246425930</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2660" y="294" key="FileChooserDialogImpl" timestamp="1601246563756">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2660" y="294" key="FileChooserDialogImpl/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1601246563756" />
+    <state x="2471" y="160" key="new project wizard" timestamp="1601246506043">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2471" y="160" key="new project wizard/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1601246506043" />
+  </component>
+</project>
